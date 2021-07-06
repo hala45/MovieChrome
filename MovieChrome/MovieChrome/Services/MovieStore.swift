@@ -163,7 +163,7 @@ class MovieStore : MovieService{
     private init() {}
     
     //the API key constant
-    private let apiKey = "6e3517b49587e9976f18f738ef008d08"
+    private let apiKey = "enter your api key here"
     //the api general URL
     private let apiURL = "https://api.themoviedb.org/3"
     //to make a new URL request

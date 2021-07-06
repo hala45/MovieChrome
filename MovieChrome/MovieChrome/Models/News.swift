@@ -30,7 +30,7 @@ class getData : ObservableObject{
     init(){
         
         
-        let source = "https://newsapi.org/v2/everything?q=movies&apiKey=a90ab632afc5408ea7bec3a6bed79866"
+        let source = "https://newsapi.org/v2/everything?q=movies&apiKey=paste your api key here"
         let url = URL(string: source)!
         
         let session = URLSession(configuration: .default)

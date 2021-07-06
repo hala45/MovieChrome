@@ -11,7 +11,7 @@ getting movie accurate details from a trusted source (TMDB).
 
 ## Design Description
 
-An IOS mobile app that will enable users to discover a variety of movies with unlimited and meaningful features. The app will provide the user with details about each movie by linking it to the API movie details official page. In addition, the app provides you with a news page where you can get the latest news headlines about the movie world in general without having to exit the app and search the internet. The user can also get trending movies by day/week and by countries to discover other countries movies taste. The app is not paid to use and its Ad free.
+An IOS mobile app that will enable users to discover a variety of movies with unlimited and meaningful features. The app will provide the user with details about each movie by linking it to the API movie details official page. The Homepage contain filters such as Now Playing, Upcoming, Top Rated and Popular with Movie cards. The search page contains a search bar where the user can search movies by title or keyword. In addition, the app provides you with a news page where you can get the latest news headlines about the movie world in general without having to exit the app and search the internet. The user can also get trending movies by day/week and by countries to discover other countries movies taste. The app is not paid to use and its Ad free.
 
 ## Getting Started
 
@@ -28,11 +28,10 @@ An IOS mobile app that will enable users to discover a variety of movies with un
 ```
 git clone https://github.com/hala45/MovieChrome.git
 ```
-4. Modify the API Keys # Homepage - Movie Filters 
-Now Playing 
-Upcoming 
-Top Rated 
-Popular 
-User can view movie details by tapping on the movie card
+4. Modify the code with your generated API keys 
+
+
+## App Demo
+
 
 

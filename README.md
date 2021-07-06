@@ -24,16 +24,11 @@ An IOS mobile app that will enable users to discover a variety of movies with un
 1. Get a free API Key at https://www.themoviedb.org/documentation/api
 2. Get a free API Key at https://newsapi.org/
 3. Clone the repo
-```
-git clone 
 
 ```
-
-
-
-
-
-# Homepage - Movie Filters 
+git clone https://github.com/hala45/MovieChrome.git
+```
+4. Modify the API Keys # Homepage - Movie Filters 
 Now Playing 
 Upcoming 
 Top Rated 
